@@ -6,7 +6,6 @@ fontsize: 11pt
 header-includes:
   - \usepackage{placeins}
 ---
-# A Comparative Study of Predictive Performance and Interpretability in Machine Learning Models for Concrete Compressive Strength Estimation
 
 ## Abstract
 
