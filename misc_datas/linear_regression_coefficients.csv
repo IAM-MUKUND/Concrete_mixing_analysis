@@ -1,0 +1,8 @@
+Feature,Coefficient
+foaming_agent(kg/m3),-0.06025356457259482
+water(kg/m3),-0.047761717796335264
+binder(kg/m3),0.046964696107596994
+period_of_testing(Days),0.010661316248738282
+fine_aggregate(kg/m3),0.006561458032045966
+measured_density(kg/m3),0.004229520924627955
+pozzolan(kg/m3),0.0006565652197364604
