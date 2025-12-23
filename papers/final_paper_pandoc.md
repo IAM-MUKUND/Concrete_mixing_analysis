@@ -1,6 +1,6 @@
 ---
 title: "A Comparative Study of Predictive Performance and Interpretability in Machine Learning Models for Concrete Compressive Strength Estimation"
-author: "Dr. P Velvadivu"
+author: "H Mukund Vinayak"
 geometry: margin=1in
 fontsize: 11pt
 header-includes:
